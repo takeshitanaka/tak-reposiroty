@@ -1,0 +1,37 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 13.04.2 ] */
+
+/* [wxMaxima: input   start ] */
+(mc+2 or mc-0.5)*10^-34*0.5second*145*10^8*365*24*60*60second*the length=10^34/0.5second
+=1*((5000000/3)*kilo*W*Y*10^34/0.5second/Y*10^34/0.5second*10000Kilo*W*Y*10^34/0.5second/
+Y*10^34/0.5second)/((5000000/3)Kilo*W*Y*10^34/0.5second/Y*10^34/0.5second*10000Kilo*W*Y*10^34/0.5second/
+Y*10^34/0.5second)^1*(4096*7.32422*10^34/0.5second)^-1/4096*7.32422*10^34/0.5second)^-1
+=X+2*X^(n+1)*(n+1)^-1=X+2*X^2=X-(n-1)*X^n*2^-1=(1 or 1.5*10^8+2) OR ((1.5*10^8+2)^-2 or (1.5*10^8+2)^-1)
+ n=2 and -2 
+This OS:Freeder will continue to be carried out caliculating actually and creating the whole world and 
+the whole things the host of this computer idealized and the whole commands the host of this computer
+ hit the key of "Enter" the analyzing tools gave "True" to them all each by each;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+ev((mc+2 or mc-0.5)*10^-34*0.5second*145*10^8*365*24*60*60second*the length=10^34/0.5second
+=1*((5000000/3)*kilo*W*Y*10^34/0.5second/Y*10^34/0.5second*10000Kilo*W*Y*10^34/0.5second/
+Y*10^34/0.5second)/((5000000/3)Kilo*W*Y*10^34/0.5second/Y*10^34/0.5second*10000Kilo*W*Y*10^34/0.5second/
+Y*10^34/0.5second)^1*(4096*7.32422*10^34/0.5second)^-1/4096*7.32422*10^34/0.5second)^-1
+=X+2*X^(n+1)*(n+1)^-1=X+2*X^2=X-(n-1)*X^n*2^-1=(1 or 1.5*10^8+2) OR ((1.5*10^8+2)^-2 or (1.5*10^8+2)^-1)
+ n=2 and -2 
+This OS:Freeder will continue to be carried out caliculating actually and creating the whole world and 
+the whole things the host of this computer idealized and the whole commands the host of this computer
+ hit the key of "Enter" the analyzing tools gave "True" to them all each by each, nouns);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+algebraic : not(algebraic);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+algebraic : not(algebraic);
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
